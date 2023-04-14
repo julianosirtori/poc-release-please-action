@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.1.0](https://github.com/julianosirtori/poc-release-please-action/compare/v2.0.0...v2.1.0) (2023-04-14)
+
+
+### Features
+
+* add log ([142f286](https://github.com/julianosirtori/poc-release-please-action/commit/142f2866d451c610e1fb3f2b74e27b1308ff4e65))
+* add new sum ([f96ab53](https://github.com/julianosirtori/poc-release-please-action/commit/f96ab53b0a93623aca365018345ce8134940d56e))
+
+
+### Bug Fixes
+
+* add export ([b480cb8](https://github.com/julianosirtori/poc-release-please-action/commit/b480cb87a3d5e452241c6ee67ef464d299620f17))
+
 ## [2.0.0](https://github.com/julianosirtori/poc-release-please-action/compare/v1.0.0...v2.0.0) (2023-04-14)
 
 
