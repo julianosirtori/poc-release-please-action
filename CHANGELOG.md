@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/julianosirtori/poc-release-please-action/compare/v1.0.0...v2.0.0) (2023-04-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* add timer
+
+### Features
+
+* add timer ([8a39293](https://github.com/julianosirtori/poc-release-please-action/commit/8a39293414afc8982d9d322f96a46ebbf93d54b2))
+
 ## 1.0.0 (2023-04-14)
 
 
