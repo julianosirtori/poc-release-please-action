@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/julianosirtori/poc-release-please-action/compare/v2.1.0...v2.1.1) (2023-04-14)
+
+
+### Bug Fixes
+
+* remove export ([628536e](https://github.com/julianosirtori/poc-release-please-action/commit/628536eaae9399282b71393423c95de2be2150ed))
+
 ## [2.1.0](https://github.com/julianosirtori/poc-release-please-action/compare/v2.0.0...v2.1.0) (2023-04-14)
 
 
