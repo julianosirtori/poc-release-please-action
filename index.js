@@ -1,5 +1,14 @@
-const printHelloWorld = () => {
-  console.log('Hello World!');
+const printLog = (log) => {
+  console.log(log);
 }
 
-printHelloWorld()
+const sum = (a,b) => {
+  return a + b;
+}
+
+const main = () => {
+  printLog('Hello World');
+  printLog(sum(1,2));
+}
+
+main()
