@@ -18,6 +18,7 @@ const timer = (maxSec) => {
 const main = () => {
   printLog('Hello World');
   printLog('POC Release Please Action');
+  printLog('Test npm publish');
   printLog(`1 + 2 is  ${sum(1,2)}`);
   printLog(`1452 + 234 is  ${sum(1452,234)}`);
   timer(5)
