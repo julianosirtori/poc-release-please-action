@@ -17,6 +17,7 @@ const timer = (maxSec) => {
 
 const main = () => {
   printLog('Hello World');
+  printLog('POC Release Please Action');
   printLog(`1 + 2 is  ${sum(1,2)}`);
   timer(5)
 }
