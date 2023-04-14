@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/julianosirtori/poc-release-please-action/compare/v2.1.1...v2.2.0) (2023-04-14)
+
+
+### Features
+
+* publish on npm ([50a28d3](https://github.com/julianosirtori/poc-release-please-action/commit/50a28d32d464299d0e78bf7873b660e08d99d839))
+
 ## [2.1.1](https://github.com/julianosirtori/poc-release-please-action/compare/v2.1.0...v2.1.1) (2023-04-14)
 
 
